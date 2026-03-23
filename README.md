@@ -40,7 +40,7 @@
     <a href="https://github.com/CMP25-SWE-TEAM1"><strong>Explore the project</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CMP25-SWE-TEAM1/Cross-platform">Crossplatform demo</a>
+    <a href="https://drive.google.com/file/d/1ezG9aceLpJsyRaL_nTE60Hr_VbZ0Pw2N/view?usp=sharing">Crossplatform demo</a>
     ·
     <a href="https://github.com/CMP25-SWE-TEAM1/Cross-platform/issues">Report Bug</a>
     ·
